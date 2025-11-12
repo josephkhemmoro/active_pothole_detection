@@ -20,7 +20,7 @@ This model is built using **YOLOv8** and trained on a custom dataset of road ima
 
 ```bash
 # Clone the repository
-git clone [https://github.com/josephkhemmoro/active_pothole_detection.git](https://github.com/josephkhemmoro/active_pothole_detection.git)
+git clone https://github.com/josephkhemmoro/active_pothole_detection.git
 cd active_pothole_detection
 
 # Install dependencies

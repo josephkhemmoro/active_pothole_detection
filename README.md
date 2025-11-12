@@ -12,9 +12,7 @@ This model is built using **YOLOv8** and trained on a custom dataset of road ima
 
 ## Demo
 
-**Suggestion:** You should record a GIF of your model running on `sample.mp4` and put it here! A great, free tool for this is [ScreenToGif](https://www.screentogif.com/).
-
-`[A GIF or screenshot of your model finding potholes would be perfect here]`
+[Live Demo](assets/demo.gif)
 
 ## Installation
 

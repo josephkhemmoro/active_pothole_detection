@@ -12,7 +12,7 @@ This model is built using **YOLOv8** and trained on a custom dataset of road ima
 
 ## Demo
 
-[Live Demo](assets/demo.gif)
+[Live Demo](pothole_detection.gif)
 
 ## Installation
 

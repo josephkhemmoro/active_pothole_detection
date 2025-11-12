@@ -5,25 +5,23 @@ This repository contains a real-time object detection model designed to identify
 This model is built using **YOLOv8** and trained on a custom dataset of road images.
 
 ## Features
+
 * Real-time detection of potholes from video streams or static images.
 * Draws bounding boxes around identified hazards.
 * Built with Python, OpenCV, and the Ultralytics YOLOv8 library.
 
 ## Demo
+
+**Suggestion:** You should record a GIF of your model running on `sample.mp4` and put it here! A great, free tool for this is [ScreenToGif](https://www.screentogif.com/).
+
 `[A GIF or screenshot of your model finding potholes would be perfect here]`
 
 ## Installation
+
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)[YourUsername]/[Your-Repo-Name].git
-cd [Your-Repo-Name]
+git clone [https://github.com/josephkhemmoro/active_pothole_detection.git](https://github.com/josephkhemmoro/active_pothole_detection.git)
+cd active_pothole_detection
 
 # Install dependencies
-pip install -r requirements.txt
-```
-
-## Usage
-To run the model on a new image, video, or live webcam feed:
-```bash
-python detect.py --weights [path/to/your/pothole_model.pt] --source [path/to/video.mp4 or 0 for webcam]
-```
+pip install ultralytics opencv-python
